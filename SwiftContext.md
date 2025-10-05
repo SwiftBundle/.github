@@ -1,15 +1,14 @@
 ```swift
-let context = SwiftContext(appGroup: "group.in.hocg.app")
-
-
-
-
-
+@EnvironmentObject var context: SwiftContext
 let hasPro = context.hasPro
+
 VStack {
-
+        Button(action: {
+            SwiftContext.shared?.hasPro.toggle()
+        }, label: {
+            Text("Hi \(context.hasPro ? "Pro" : "Free") User!")
+        })
 }
-.environmentObject(context)
-
+.environmentObject(SwiftContext.create(appGroup: "group.in.hocg.app"))
 
 ```
