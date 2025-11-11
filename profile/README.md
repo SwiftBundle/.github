@@ -28,3 +28,5 @@
 | SwiftTCA           | https://github.com/hocgin/SwiftTCA             |
 | SwiftContext       | https://github.com/hocgin/SwiftContext         |
 | SwiftExamples      | https://github.com/hocgin/SwiftExamples        |
+| SwiftJSON          | https://github.com/hocgin/SwiftJSON            |
+| SwiftAPI           | https://github.com/hocgin/SwiftAPI             |
