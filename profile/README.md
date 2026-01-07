@@ -14,7 +14,7 @@
 | SwiftChangeIconKit | https://github.com/hocgin/SwiftChangeIconKit   |
 | SwiftUIWebKit      | https://github.com/hocgin/SwiftUIWebKit        |
 | SwiftGuideKit      | https://github.com/hocgin/SwiftGuideKit        |
-| SwiftUIProductKit  | https://github.com/hocgin/SwiftUIProductKit    |
+| SwiftProductKit  | https://github.com/hocgin/SwiftProductKit        |
 | SwiftGRDB          | https://github.com/hocgin/SwiftGRDB            |
 | SwiftICONS         | https://github.com/hocgin/SwiftICONS           |
 | SwiftEvents        | https://github.com/hocgin/SwiftEvents          |
@@ -30,3 +30,4 @@
 | SwiftExamples      | https://github.com/hocgin/SwiftExamples        |
 | SwiftJSON          | https://github.com/hocgin/SwiftJSON            |
 | SwiftAPI           | https://github.com/hocgin/SwiftAPI             |
+| SwiftRive           | https://github.com/hocgin/SwiftRive           |
